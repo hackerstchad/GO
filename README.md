@@ -1,15 +1,10 @@
 # BOOK-DOWN
 
-Script Python avancé créé par **Hackers-Tchad** pour télécharger des livres depuis un site web via son URL.
+<img width="1024" height="576" alt="49ee0c5c-726e-4284-8497-f6b49514d2c6" src="https://github.com/user-attachments/assets/de677014-b1c9-41e5-b0a6-e22c72cd18ee" />
 
-## Avertissement légal
 
-Ce script est destiné à un usage **légal et éthique uniquement** :
-- Télécharger des livres que vous possédez légalement
-- Télécharger des livres sous licence libre (Creative Commons, domaine public, etc.)
-- Télécharger des livres avec autorisation explicite de l'auteur ou de l'éditeur
+Auteur : Hackers_tchad
 
-**Ne l'utilisez jamais** pour pirater des œuvres protégées par le droit d'auteur.
 
 ## Fonctionnalités
 
@@ -41,7 +36,8 @@ python book_down.py
 ### Mode ligne de commande
 
 ```bash
-python book_down.py --url https://example.com/books --ext pdf,epub --output ./downloads --depth 2
+python book_down.py --url https://example.com<img width="1024" height="576" alt="49ee0c5c-726e-4284-8497-f6b49514d2c6" src="https://github.com/user-attachments/assets/002ee6a0-c298-4409-a588-800873f6aada" />
+/books --ext pdf,epub --output ./downloads --depth 2
 ```
 
 ## Options
